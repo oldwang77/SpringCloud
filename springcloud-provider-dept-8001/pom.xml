@@ -60,6 +60,7 @@
             <artifactId>spring-boot-starter-jetty</artifactId>
         </dependency>
 
+        <!--导入eureka的依赖-->
         <!-- https://mvnrepository.com/artifact/org.springframework.cloud/spring-cloud-starter-netflix-eureka-client -->
         <dependency>
             <groupId>org.springframework.cloud</groupId>

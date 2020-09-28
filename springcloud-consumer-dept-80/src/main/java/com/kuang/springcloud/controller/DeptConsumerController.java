@@ -21,7 +21,13 @@ public class DeptConsumerController {
     // 提供多种便捷访问远程http服务的方法，简单的Restful服务模板
     private RestTemplate restTemplate;
 
-    private static final String REST_URL_PREFIX = "http://localhost:8001";
+    // 通过ribbon实现的时候，我们这里的地址是一个变量，是通过服务名来访问
+    // 这个变量注册在eureka中，SpringCloud/springcloud-provider-dept-8001/src/main/java/com/kuang/springcloud/controller/DeptController.java
+    // http://SPRINGCLOUD-PROVIDER-DEPT里面包含三个，localhost:7001,7002,7003
+
+    // private static final String REST_URL_PREFIX = "http://localhost:8001";
+    private static final String REST_URL_PREFIX = "http://SPRINGCLOUD-PROVIDER-DEPT";
+
 
     @RequestMapping("/dept/add")
     public boolean addDept(Dept dept){

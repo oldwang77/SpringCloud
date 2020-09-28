@@ -28,25 +28,25 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/springcloud-Eureka-7003/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springcloud-provider-dept-8003/src/main/java" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.27931035" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.ignored.files" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/springcloud-Eureka-7003/src/main/resources" />
-      <recent name="$PROJECT_DIR$/springcloud-Eureka-7002/src/main/resources" />
-      <recent name="$PROJECT_DIR$/springcloud-eureka-7003/src/main/resources" />
-      <recent name="$PROJECT_DIR$/springcloud-eureka-7002/src/main/resources" />
-      <recent name="$PROJECT_DIR$" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/springcloud-provider-dept-8001/src/main/resources/mybatis" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.kuang.springcloud" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/springcloud-provider-dept-8001/src/main/resources/mybatis" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/springcloud-provider-dept-8003/src/main/java" />
+      <recent name="$PROJECT_DIR$/springcloud-provider-dept-8002/src/main/java" />
+      <recent name="$PROJECT_DIR$/springcloud-provider-dept-8003/src/main/resources" />
+      <recent name="$PROJECT_DIR$/springcloud-provider-dept-8002/src/main/resources" />
+      <recent name="$PROJECT_DIR$/springcloud-Eureka-7003/src/main/resources" />
     </key>
   </component>
   <component name="RunManager" selected="Spring Boot.EurakaServer_7001">
@@ -142,6 +142,8 @@
       <workItem from="1601254365728" duration="453000" />
       <workItem from="1601254844640" duration="811000" />
       <workItem from="1601255677415" duration="2635000" />
+      <workItem from="1601277123226" duration="3539000" />
+      <workItem from="1601281974541" duration="102000" />
     </task>
     <servers />
   </component>
@@ -229,18 +231,18 @@
       <screen x="0" y="23" width="1920" height="1002" />
     </state>
     <state x="671" y="190" width="1194" height="676" key="Maven.ArtifactSearchDialog/0.23.1920.1002@0.23.1920.1002" timestamp="1601254256570" />
-    <state x="688" y="187" key="SettingsEditor" timestamp="1601255657566">
+    <state x="684" y="204" key="SettingsEditor" timestamp="1601282077381">
       <screen x="0" y="23" width="1920" height="1002" />
     </state>
-    <state x="688" y="187" key="SettingsEditor/0.23.1920.1002@0.23.1920.1002" timestamp="1601255657566" />
+    <state x="684" y="204" key="SettingsEditor/0.23.1920.1002@0.23.1920.1002" timestamp="1601282077381" />
     <state x="1116" y="291" width="580" height="510" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1601192251053">
       <screen x="0" y="23" width="1792" height="1042" />
     </state>
     <state x="1116" y="291" width="580" height="510" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.23.1792.1042@0.23.1792.1042" timestamp="1601192251053" />
-    <state x="542" y="217" key="new project wizard" timestamp="1601255785718">
+    <state x="649" y="351" key="new project wizard" timestamp="1601281634926">
       <screen x="0" y="23" width="1920" height="1002" />
     </state>
     <state x="528" y="209" key="new project wizard/0.23.1792.1042@0.23.1792.1042" timestamp="1601212433247" />
-    <state x="542" y="217" key="new project wizard/0.23.1920.1002@0.23.1920.1002" timestamp="1601255785718" />
+    <state x="649" y="351" key="new project wizard/0.23.1920.1002@0.23.1920.1002" timestamp="1601281634926" />
   </component>
 </project>

@@ -9,6 +9,7 @@ eureka:
     fetch-registry: false           # fetch-registry如果为false，表示自己是注册中心
     service-url:                    # 服务监控页面
       # 单机： defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
-      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
+      # defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
       # 集群（关联）：
       #defaultZone: http://eureka7002.com:7002/eureka/,http://eureka7003.com:7003/eureka/
+      defaultZone: http://localhost:7002/eureka/,http://localhost:7003/eureka/

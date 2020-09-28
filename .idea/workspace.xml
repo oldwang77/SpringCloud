@@ -28,42 +28,28 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springcloud-Eureka-7003/src/main/resources" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.27931035" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/springcloud-Eureka-7003/src/main/resources" />
+      <recent name="$PROJECT_DIR$/springcloud-Eureka-7002/src/main/resources" />
+      <recent name="$PROJECT_DIR$/springcloud-eureka-7003/src/main/resources" />
+      <recent name="$PROJECT_DIR$/springcloud-eureka-7002/src/main/resources" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.kuang.springcloud" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/springcloud-provider-dept-8001/src/main/resources/mybatis" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.DeptProvider_8001">
-    <configuration name="ConfigEurakaServer_7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="springcloud-eureka-7001" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kuang.springcloud.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kuang.springcloud.ConfigEurakaServer_7001" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DeptConsumer_80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="springcloud-consumer-dept-80" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kuang.springcloud.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kuang.springcloud.DeptConsumer_80" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Spring Boot.EurakaServer_7001">
     <configuration name="DeptProvider_8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="springcloud-provider-dept-8001" />
       <extension name="coverage">
@@ -77,11 +63,62 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EurakaServer_7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud-eureka-7001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kuang.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kuang.springcloud.EurakaServer_7001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurakaServer_7002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud-eureka-7002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kuang.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kuang.springcloud.EurakaServer_7002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurakaServer_7003" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud-eureka-7003" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kuang.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kuang.springcloud.EurakaServer_7003" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/oldwong/Documents/CodeHouse/work/SpringCloud/springcloud-provider-dept-8001/src/main/resources/application.yaml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="springcloud-provider-dept-8001" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/springcloud-provider-dept-8001/src/main/resources/application.yaml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.DeptProvider_8001" />
-        <item itemvalue="Spring Boot.ConfigEurakaServer_7001" />
-        <item itemvalue="Spring Boot.DeptConsumer_80" />
+        <item itemvalue="Spring Boot.EurakaServer_7003" />
+        <item itemvalue="Spring Boot.EurakaServer_7002" />
+        <item itemvalue="Spring Boot.EurakaServer_7001" />
+        <item itemvalue="TestNG./Users/oldwong/Documents/CodeHouse/work/SpringCloud/springcloud-provider-dept-8001/src/main/resources/application.yaml" />
       </list>
     </recent_temporary>
   </component>
@@ -101,7 +138,10 @@
       <workItem from="1601190754065" duration="239000" />
       <workItem from="1601190996255" duration="7328000" />
       <workItem from="1601205679605" duration="10222000" />
-      <workItem from="1601251183925" duration="1070000" />
+      <workItem from="1601251183925" duration="3170000" />
+      <workItem from="1601254365728" duration="453000" />
+      <workItem from="1601254844640" duration="811000" />
+      <workItem from="1601255677415" duration="2635000" />
     </task>
     <servers />
   </component>
@@ -113,10 +153,10 @@
       <screen x="0" y="23" width="1792" height="1042" />
     </state>
     <state x="1112" y="436" key="#Notifications/0.23.1792.1042@0.23.1792.1042" timestamp="1601213572815" />
-    <state x="768" y="122" key="#Project_Structure" timestamp="1601212441649">
+    <state x="768" y="122" key="#Project_Structure" timestamp="1601259567739">
       <screen x="0" y="23" width="1792" height="1042" />
     </state>
-    <state x="768" y="122" key="#Project_Structure/0.23.1792.1042@0.23.1792.1042" timestamp="1601212441649" />
+    <state x="768" y="122" key="#Project_Structure/0.23.1792.1042@0.23.1792.1042" timestamp="1601259567739" />
     <state x="853" y="212" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601192111546">
       <screen x="0" y="23" width="1792" height="1042" />
     </state>
@@ -129,38 +169,46 @@
       <screen x="0" y="23" width="1792" height="1042" />
     </state>
     <state x="735" y="478" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1792.1042@0.23.1792.1042" timestamp="1601196375178" />
-    <state width="1076" height="349" key="GridCell.Tab.0.bottom" timestamp="1601216764703">
+    <state width="1158" height="420" key="GridCell.Tab.0.bottom" timestamp="1601259803604">
       <screen x="0" y="23" width="1792" height="1042" />
     </state>
-    <state width="1076" height="349" key="GridCell.Tab.0.bottom/0.23.1792.1042@0.23.1792.1042" timestamp="1601216764703" />
-    <state width="1076" height="349" key="GridCell.Tab.0.center" timestamp="1601216764703">
+    <state width="1158" height="420" key="GridCell.Tab.0.bottom/0.23.1792.1042@0.23.1792.1042" timestamp="1601259803604" />
+    <state width="1153" height="334" key="GridCell.Tab.0.bottom/0.23.1920.1002@0.23.1920.1002" timestamp="1601256965285" />
+    <state width="1158" height="420" key="GridCell.Tab.0.center" timestamp="1601259803604">
       <screen x="0" y="23" width="1792" height="1042" />
     </state>
-    <state width="1076" height="349" key="GridCell.Tab.0.center/0.23.1792.1042@0.23.1792.1042" timestamp="1601216764703" />
-    <state width="1076" height="349" key="GridCell.Tab.0.left" timestamp="1601216764703">
+    <state width="1158" height="420" key="GridCell.Tab.0.center/0.23.1792.1042@0.23.1792.1042" timestamp="1601259803604" />
+    <state width="1153" height="334" key="GridCell.Tab.0.center/0.23.1920.1002@0.23.1920.1002" timestamp="1601256965285" />
+    <state width="1158" height="420" key="GridCell.Tab.0.left" timestamp="1601259803603">
       <screen x="0" y="23" width="1792" height="1042" />
     </state>
-    <state width="1076" height="349" key="GridCell.Tab.0.left/0.23.1792.1042@0.23.1792.1042" timestamp="1601216764703" />
-    <state width="1076" height="349" key="GridCell.Tab.0.right" timestamp="1601216764703">
+    <state width="1158" height="420" key="GridCell.Tab.0.left/0.23.1792.1042@0.23.1792.1042" timestamp="1601259803603" />
+    <state width="1153" height="334" key="GridCell.Tab.0.left/0.23.1920.1002@0.23.1920.1002" timestamp="1601256965284" />
+    <state width="1158" height="420" key="GridCell.Tab.0.right" timestamp="1601259803604">
       <screen x="0" y="23" width="1792" height="1042" />
     </state>
-    <state width="1076" height="349" key="GridCell.Tab.0.right/0.23.1792.1042@0.23.1792.1042" timestamp="1601216764703" />
-    <state width="1076" height="349" key="GridCell.Tab.1.bottom" timestamp="1601216764704">
+    <state width="1158" height="420" key="GridCell.Tab.0.right/0.23.1792.1042@0.23.1792.1042" timestamp="1601259803604" />
+    <state width="1153" height="334" key="GridCell.Tab.0.right/0.23.1920.1002@0.23.1920.1002" timestamp="1601256965285" />
+    <state width="1158" height="420" key="GridCell.Tab.1.bottom" timestamp="1601259803605">
       <screen x="0" y="23" width="1792" height="1042" />
     </state>
-    <state width="1076" height="349" key="GridCell.Tab.1.bottom/0.23.1792.1042@0.23.1792.1042" timestamp="1601216764704" />
-    <state width="1076" height="349" key="GridCell.Tab.1.center" timestamp="1601216764704">
+    <state width="1158" height="420" key="GridCell.Tab.1.bottom/0.23.1792.1042@0.23.1792.1042" timestamp="1601259803605" />
+    <state width="1153" height="334" key="GridCell.Tab.1.bottom/0.23.1920.1002@0.23.1920.1002" timestamp="1601256965286" />
+    <state width="1158" height="420" key="GridCell.Tab.1.center" timestamp="1601259803604">
       <screen x="0" y="23" width="1792" height="1042" />
     </state>
-    <state width="1076" height="349" key="GridCell.Tab.1.center/0.23.1792.1042@0.23.1792.1042" timestamp="1601216764704" />
-    <state width="1076" height="349" key="GridCell.Tab.1.left" timestamp="1601216764703">
+    <state width="1158" height="420" key="GridCell.Tab.1.center/0.23.1792.1042@0.23.1792.1042" timestamp="1601259803604" />
+    <state width="1153" height="334" key="GridCell.Tab.1.center/0.23.1920.1002@0.23.1920.1002" timestamp="1601256965286" />
+    <state width="1158" height="420" key="GridCell.Tab.1.left" timestamp="1601259803604">
       <screen x="0" y="23" width="1792" height="1042" />
     </state>
-    <state width="1076" height="349" key="GridCell.Tab.1.left/0.23.1792.1042@0.23.1792.1042" timestamp="1601216764703" />
-    <state width="1076" height="349" key="GridCell.Tab.1.right" timestamp="1601216764704">
+    <state width="1158" height="420" key="GridCell.Tab.1.left/0.23.1792.1042@0.23.1792.1042" timestamp="1601259803604" />
+    <state width="1153" height="334" key="GridCell.Tab.1.left/0.23.1920.1002@0.23.1920.1002" timestamp="1601256965285" />
+    <state width="1158" height="420" key="GridCell.Tab.1.right" timestamp="1601259803605">
       <screen x="0" y="23" width="1792" height="1042" />
     </state>
-    <state width="1076" height="349" key="GridCell.Tab.1.right/0.23.1792.1042@0.23.1792.1042" timestamp="1601216764704" />
+    <state width="1158" height="420" key="GridCell.Tab.1.right/0.23.1792.1042@0.23.1792.1042" timestamp="1601259803605" />
+    <state width="1153" height="334" key="GridCell.Tab.1.right/0.23.1920.1002@0.23.1920.1002" timestamp="1601256965286" />
     <state width="1076" height="349" key="GridCell.Tab.2.bottom" timestamp="1601216764705">
       <screen x="0" y="23" width="1792" height="1042" />
     </state>
@@ -177,18 +225,22 @@
       <screen x="0" y="23" width="1792" height="1042" />
     </state>
     <state width="1076" height="349" key="GridCell.Tab.2.right/0.23.1792.1042@0.23.1792.1042" timestamp="1601216764704" />
-    <state x="941" y="190" key="Maven.ArtifactSearchDialog" timestamp="1601251689662">
+    <state x="671" y="190" width="1194" height="676" key="Maven.ArtifactSearchDialog" timestamp="1601254256570">
       <screen x="0" y="23" width="1920" height="1002" />
     </state>
-    <state x="941" y="190" key="Maven.ArtifactSearchDialog/0.23.1920.1002@0.23.1920.1002" timestamp="1601251689662" />
+    <state x="671" y="190" width="1194" height="676" key="Maven.ArtifactSearchDialog/0.23.1920.1002@0.23.1920.1002" timestamp="1601254256570" />
+    <state x="688" y="187" key="SettingsEditor" timestamp="1601255657566">
+      <screen x="0" y="23" width="1920" height="1002" />
+    </state>
+    <state x="688" y="187" key="SettingsEditor/0.23.1920.1002@0.23.1920.1002" timestamp="1601255657566" />
     <state x="1116" y="291" width="580" height="510" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1601192251053">
       <screen x="0" y="23" width="1792" height="1042" />
     </state>
     <state x="1116" y="291" width="580" height="510" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.23.1792.1042@0.23.1792.1042" timestamp="1601192251053" />
-    <state x="629" y="228" key="new project wizard" timestamp="1601251323573">
+    <state x="542" y="217" key="new project wizard" timestamp="1601255785718">
       <screen x="0" y="23" width="1920" height="1002" />
     </state>
     <state x="528" y="209" key="new project wizard/0.23.1792.1042@0.23.1792.1042" timestamp="1601212433247" />
-    <state x="629" y="228" key="new project wizard/0.23.1920.1002@0.23.1920.1002" timestamp="1601251323573" />
+    <state x="542" y="217" key="new project wizard/0.23.1920.1002@0.23.1920.1002" timestamp="1601255785718" />
   </component>
 </project>

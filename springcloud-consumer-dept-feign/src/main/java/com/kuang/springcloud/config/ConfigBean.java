@@ -23,6 +23,4 @@ public class ConfigBean {   //@Configuration  -- spring applicationContext.xml
     public RestTemplate getRestTemplate(){
         return new RestTemplate();
     }
-
-
 }

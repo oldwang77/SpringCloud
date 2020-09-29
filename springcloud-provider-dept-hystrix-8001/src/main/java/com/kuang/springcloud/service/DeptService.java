@@ -1,6 +1,8 @@
 package com.kuang.springcloud.service;
 
-import com.kuang.springcloud.pojo.Dept;
+
+
+import com.kaung.springcloud.pojo.Dept;
 
 import java.util.List;
 

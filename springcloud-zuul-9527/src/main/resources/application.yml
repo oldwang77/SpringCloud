@@ -17,7 +17,7 @@ zuul:
     mydept.serviceId: springcloud-provider-dept
     mydept.path: /mydept/**
   ignored-services: "*"
-  prefix: /kuang # 访问前缀
+#  prefix: /kuang # 统一的访问前缀
 #ignored-services: springcloud-provider-dept # 不能再使用这个路径访问
 
 info:

@@ -33,7 +33,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.27931035" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.ignored.files" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -134,7 +134,7 @@
     <option name="ACTIVE_ACTIONS" value=",SHOW_FIELDS" />
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -152,7 +152,7 @@
       <workItem from="1601255677415" duration="2635000" />
       <workItem from="1601277123226" duration="3539000" />
       <workItem from="1601281974541" duration="7350000" />
-      <workItem from="1601364227350" duration="3085000" />
+      <workItem from="1601364227350" duration="5335000" />
     </task>
     <servers />
   </component>
@@ -240,10 +240,10 @@
       <screen x="0" y="23" width="1920" height="1002" />
     </state>
     <state x="671" y="190" width="1194" height="676" key="Maven.ArtifactSearchDialog/0.23.1920.1002@0.23.1920.1002" timestamp="1601254256570" />
-    <state x="684" y="204" key="SettingsEditor" timestamp="1601282077381">
+    <state x="684" y="204" key="SettingsEditor" timestamp="1601388656697">
       <screen x="0" y="23" width="1920" height="1002" />
     </state>
-    <state x="684" y="204" key="SettingsEditor/0.23.1920.1002@0.23.1920.1002" timestamp="1601282077381" />
+    <state x="684" y="204" key="SettingsEditor/0.23.1920.1002@0.23.1920.1002" timestamp="1601388656697" />
     <state x="1113" y="318" key="chooseDestDirectoryDialog" timestamp="1601305131807">
       <screen x="0" y="23" width="1920" height="1002" />
     </state>
